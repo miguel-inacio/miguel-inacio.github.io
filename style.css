@@ -8,8 +8,21 @@ h1 {
 
 body {
   background-color: #0d1317;
+  color: #47a025;
 }
 
 #location-colors {
   color: #c4e7d4
+}
+
+.list {
+  font-size: 20px;
+}
+
+.list-item-01 {
+  font-size: 0.8em;
+}
+
+.list-item-02 {
+  font-size: 0.7em;
 }
