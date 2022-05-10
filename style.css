@@ -1,5 +1,6 @@
-h1 {
+#header {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-align: center;
 }
 
 .description {
@@ -12,10 +13,11 @@ body {
 }
 
 #location-colors {
-  color: #c4e7d4
+  color: #c4e7d4;
+  font-family: 'Times New Roman', Times, serif;
 }
 
-.list {
+.formacao {
   font-size: 20px;
 }
 
@@ -26,3 +28,12 @@ body {
 .list-item-02 {
   font-size: 0.7em;
 }
+
+#minha-foto {
+  float: left;
+  padding: 10px;
+  background-color: #507DBC;
+  margin-right: 30px;
+  margin-bottom: 40px;
+}
+
